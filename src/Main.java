@@ -1,15 +1,25 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        // Q : store a roll number
+        int a = 19;
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        // Q: store a person's name
+        String name = "Sufi Qalandar";
+
+        // Q: store 5 roll numbers
+        int rno1 = 23;
+        int rno = 55;
+        int rno3 = 18;
+
+        //syntax
+        // datatypes[] variable_name = new datatypes[size];
+        // store 5 roll numbers
+
+        int [] rnos = new int [5];
+        // or directly
+        int[] rnos2 = {23,12,45,32,15};
+
+
+
     }
 }
