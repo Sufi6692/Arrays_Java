@@ -48,7 +48,6 @@ public class Input {
 
         System.out.println(Arrays.toString(str));
 
- nbvgjfxghlkjhgfsdtfgyhuijo
 
     }
 }
