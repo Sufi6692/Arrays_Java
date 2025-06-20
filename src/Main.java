@@ -22,7 +22,7 @@ public class Main {
 
         int [] ros;// declaration of array. ros is getting defined in the stack
         ros = new int[5];// initialisation : actually here object is being created in the
-
+//dflk;jhdkldfjalk;sdjfhkjasdfhlkasdjfkajshdfksf
 
         System.out.println(ros[1]);
 
